@@ -151,9 +151,9 @@ const Index = () => {
             </div>
 
             <img
-              src="/img/3d0aa3f8-ea97-4801-8843-38332873cb42.jpg"
+              src="/img/bc672be5-2b37-4234-a26a-9c09df563d11.jpg"
               alt="AI Neural Network"
-              className="w-full max-w-2xl mx-auto rounded-2xl shadow-2xl"
+              className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
             />
           </div>
         </div>
